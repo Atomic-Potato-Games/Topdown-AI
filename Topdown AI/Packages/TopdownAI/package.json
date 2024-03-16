@@ -1,0 +1,14 @@
+{
+    "name": "com.atomicpotatogames.topdown-ai",
+    "version": "1.0.0",
+    "displayName": "Topdown AI",
+    "description": "A pathfinding AI with agents avoidance for topdown 2D games",
+    "unity": "2019.1",
+    "dependencies": {},
+    "author": 
+    {
+        "name": "Atomic Potato",
+        "email": "atomicpotatogames32@gmail.com",
+        "url": "https://twitter.com/Atomic_Potato_"
+    }
+}
