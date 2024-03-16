@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8580796626603922712}
   - component: {fileID: 8580796626603922715}
   - component: {fileID: 8580796626603922714}
-  m_Layer: 9
+  m_Layer: 8
   m_Name: Agent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61,7 +61,7 @@ MonoBehaviour:
   Behavior: {fileID: 11400000, guid: 0074d342f66773d4d8238edae5794df2, type: 2}
   _agentsLayer:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 256
   _isDrawGizmos: 1
   _isDrawPath: 1
   _pathColor: {r: 0, g: 0, b: 1, a: 0.0627451}

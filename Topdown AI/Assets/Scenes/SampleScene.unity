@@ -374,7 +374,7 @@ GameObject:
   - component: {fileID: 913927604}
   - component: {fileID: 913927603}
   - component: {fileID: 913927602}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: New Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -698,7 +698,7 @@ GameObject:
   - component: {fileID: 1942647839}
   - component: {fileID: 1942647838}
   - component: {fileID: 1942647837}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: New Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -805,7 +805,7 @@ PrefabInstance:
     - target: {fileID: 861191054544769956, guid: a1986d927729d7046afe3e3425da20a1,
         type: 3}
       propertyPath: _unwalkableMask.m_Bits
-      value: 256
+      value: 512
       objectReference: {fileID: 0}
     - target: {fileID: 861191055518020701, guid: a1986d927729d7046afe3e3425da20a1,
         type: 3}
